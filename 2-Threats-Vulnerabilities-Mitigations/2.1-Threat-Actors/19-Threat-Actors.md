@@ -78,6 +78,7 @@ CompTIA considers them a type of **insider threat** though usually unintential
 
 ### Threat Actor Attributes
 When identifying or comparing threat actors, think of these attributes:
+
 | Attribute | Meaning | Example | 
 | --- | --- | --- |
 | Sophistication / Skill level | Technical knowledge, ability to exploit new vulnerabilities | APTs = high, script kiddies = low |

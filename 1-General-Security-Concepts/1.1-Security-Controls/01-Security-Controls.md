@@ -14,6 +14,7 @@ The CIA Triad
 
 ### Control Types by Function
 *There are three main functional categories of controls*
+
 | Type | Purpose | Examples |
 | --- | --- | --- |
 | Preventive | Stop an attack before it happens. (Limit access to a certain resource) | Firewall role, strong passwords, training, locks |
@@ -29,6 +30,7 @@ Also sometimes you'll see *Deterrent* (Discourage attacks) and *Compensating* (t
 
 ### Control Implementation Types (How they're applied)
 *These describe how controls are implemented*
+
 | Type | Description | Examples |
 | --- | --- | --- | 
 | Administrative (Managerial) | Policies, procedures, training (best way to manage computer, data or other) | Security policies, background checks, onboarding rules |

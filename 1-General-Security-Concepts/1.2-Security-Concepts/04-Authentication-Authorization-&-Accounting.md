@@ -10,6 +10,7 @@ These three form the core of how organizations manage **access control** and **u
 *Can you prove you are who you say you are?* 
 
 This step confirms a user's identity **before granting access**.
+
 | Factor Type | Description | Example |
 | --- | --- | --- | 
 | Something you know | Knowledge-based | Passwords, PINs, security questions | 
@@ -33,6 +34,7 @@ As a cybersecurity professional, you will have access to thousands or more devic
 Once authenticated, the system checks **permissions and privlidges** to determine access.
 
 Common Authorization Models:
+
 | Model | Description | Example | 
 | --- | --- | --- | 
 | **RBAC** (Role-Based Access Control) | Access based on job role | HR role -> access to payroll data |

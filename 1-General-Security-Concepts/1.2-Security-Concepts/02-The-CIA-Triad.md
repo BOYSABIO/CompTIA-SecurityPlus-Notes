@@ -1,6 +1,7 @@
 # The CIA Triad
-These are teh fundamentals of security (security objectives to maintain) and sometimes referred to as AIC.  
+These are the fundamentals of security (security objectives to maintain) and sometimes referred to as AIC.  
 The **CIA Triad** represents the three core goals of information security:
+
 | Letter | Principle | Goal | Simple Definition | 
 | --- | --- | --- | --- | 
 | C | Confidentiality | Privacy | Only authorized people can access information |
@@ -10,13 +11,13 @@ The **CIA Triad** represents the three core goals of information security:
 ---
 
 ### Confidentiality 
-Preventing unauthorized accesss to data. **WHO CAN SEE IT**.  
+Preventing unauthorized access to data. **WHO CAN SEE IT**.  
 
 Examples:
 - Encryption (data is unreadable without a key)
 - Access control lists (ACLs) on files or networks (limit who has access to certain information)
 - Multifactor authentication (MFA)
-- Least priviledge (users only get the access they need)
+- Least privilege (users only get the access they need)
 - Steganography (hiding data in images or files)
 - Physical security (locked doors, badges)
 

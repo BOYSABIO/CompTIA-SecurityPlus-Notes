@@ -31,16 +31,16 @@ As a cybersecurity professional, you will have access to thousands or more devic
 
 ### Authorization - Granting Access
 *Now that I know who you are, what are you allowed to do?*
-Once authenticated, the system checks **permissions and privlidges** to determine access.
+Once authenticated, the system checks **permissions and privileges** to determine access.
 
 Common Authorization Models:
 
-| Model | Description | Example | 
-| --- | --- | --- | 
-| **RBAC** (Role-Based Access Control) | Access based on job role | HR role -> access to payroll data |
-| **MAC** (Mandatory Access Control) | Access based on classification level | Top Secret vs Secret clearance |
-| **DAC** (Discretionary Access Control) | Owner sets permissions | File owner sets read/write access | 
-| **ABAC** (Attribute-Based Access Control) | Based on attributes and policies | "Allow if department = finance & location = HQ" |
+| Model                                     | Description                          | Example                                         |     |
+| ----------------------------------------- | ------------------------------------ | ----------------------------------------------- | --- |
+| **RBAC** (Role-Based Access Control)      | Access based on job role             | HR role -> access to payroll data               |     |
+| **MAC** (Mandatory Access Control)        | Access based on classification level | Top Secret vs Secret clearance                  |     |
+| **DAC** (Discretionary Access Control)    | Owner sets permissions               | File owner sets read/write access               |     |
+| **ABAC** (Attribute-Based Access Control) | Based on attributes and policies     | "Allow if department = finance & location = HQ" |     |
 
 `Authorization` happens after `Authentication`
 

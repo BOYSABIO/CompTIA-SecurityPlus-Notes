@@ -24,7 +24,7 @@ So whereas **encryption** aims to **protect confidentiality** using strong math,
 3. **Malware Evasion**: Attackers use obfuscation to hide malicious code from detection tools
 4. **Data Masking**: Conceal sensitive information in non-production environments
 
-So obfuscation can be used by both **defenders and atackers** - a key idea for the exam
+So obfuscation can be used by both **defenders and attackers** - a key idea for the exam
 
 --- 
 

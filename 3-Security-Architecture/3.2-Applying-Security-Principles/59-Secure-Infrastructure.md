@@ -76,7 +76,7 @@ Why it matters:
 Small, granular network segments secured individually.
 
 Tools:
-- SDN
+- SDN (Software-Defined Networking)
 - Host firewalls
 - Cloud security groups
 

@@ -1,3 +1,4 @@
+# Secure Infrastructure
 This topic builds directly on everything we’ve been doing with infrastructure, but now shifts to **how to secure the infrastructure holistically** — from design principles to the security controls applied to hardware, networks, cloud, and supporting systems.
 
 Think of this as the _security architecture layer_ above the infrastructure concepts we’ve already covered.

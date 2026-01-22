@@ -184,4 +184,4 @@ This topic ties together nearly everything we’ve covered:
 | **[[42-Other-Malware-Types\|Ransomware]]**                              | Offline backups, snapshots |
 | **[[44-Denial-Of-Service\|DDoS Attacks]]**                              | Load balancing, redundancy |
 
-Resiliency is what **keeps the business alive** when prevention fails.s
+Resiliency is what **keeps the business alive** when prevention fails.

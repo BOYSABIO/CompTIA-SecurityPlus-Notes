@@ -215,7 +215,7 @@ This topic is a **convergence point**:
 
 | Previous Topic                                                                 | Connection                       |
 | ------------------------------------------------------------------------------ | -------------------------------- |
-| **[[74-Data-Types-&-Classifications\|Data Types & Classification]]**         | Determines protection strength   |
+| **[[74-Data-Types-&-Classifications\|Data Types & Classification]]**          | Determines protection strength   |
 | **[[75-States-Of-Data\|States of Data]]**                                      | Determines protection method     |
 | **[[12-Encrypting-Data\|Encryption]] & [[11-Public-Key-Infrastructure\|PKI]]** | Core protection mechanisms       |
 | **DLP**                                                                        | Prevents data exfiltration       |

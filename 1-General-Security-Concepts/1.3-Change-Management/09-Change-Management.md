@@ -24,6 +24,7 @@ Many security incidents are caused not by attackers but by poorly managed intern
 Main idea is to avoid downtime, confusion, and mistakes. 
 
 You'll see some slight variations but the main stages are:
+
 | Step | Description | Example | 
 | --- | --- | --- | 
 | Request / Initiation | Someone proposes a change (in the form of a form). The reason for the change | Admin requests firmware update for routers | 

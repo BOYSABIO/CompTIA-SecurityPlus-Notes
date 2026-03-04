@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "4-Security-Operations/4.1-Security-Techniques/82-Secure-Baselines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "82-Secure-Baselines"
             }
           }
         ]
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "4-Security-Operations/4.1-Security-Techniques/82-Secure-Baselines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 82-Secure-Baselines"
             }
           },
           {
@@ -132,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "4-Security-Operations/4.1-Security-Techniques/82-Secure-Baselines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 82-Secure-Baselines"
             }
           },
           {
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "4-Security-Operations/4.1-Security-Techniques/82-Secure-Baselines.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 82-Secure-Baselines"
             }
           }
         ]
@@ -220,7 +220,20 @@
   },
   "active": "2f40b4964217382e",
   "lastOpenFiles": [
-    "Introduction.md",
-    "README.md"
+    "3-Security-Architecture/3.4-Resiliency-&-Recovery/78-Capacity-Planning.md",
+    "4-Security-Operations/4.1-Security-Techniques/82-Secure-Baselines.md",
+    "4-Security-Operations/4.1-Security-Techniques",
+    "4-Security-Operations",
+    "3-Security-Architecture/3.4-Resiliency-&-Recovery/81-Power-Resiliency.md",
+    "3-Security-Architecture/3.4-Resiliency-&-Recovery/80-Backups.md",
+    "3-Security-Architecture/3.4-Resiliency-&-Recovery/79-Recovery-Testing.md",
+    "2-Threats-Vulnerabilities-Mitigations/2.3-Types-Of-Vulnerabilities/25-Memory-Injections.md",
+    "2-Threats-Vulnerabilities-Mitigations/2.4-Indicators-Of-Malicious-Activity/50-Application-Attacks.md",
+    "1-General-Security-Concepts/1.3-Change-Management/10-Technical-Change-Management.md",
+    "1-General-Security-Concepts/1.3-Change-Management/09-Change-Management.md",
+    "1-General-Security-Concepts/1.1-Security-Controls/01-Security-Controls.md",
+    "1-General-Security-Concepts/1.2-Security-Concepts/02-The-CIA-Triad.md",
+    "README.md",
+    "Introduction.md"
   ]
 }

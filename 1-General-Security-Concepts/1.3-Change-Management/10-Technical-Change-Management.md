@@ -71,6 +71,8 @@ Common validation methods:
 
 ### Rollback & Recovery
 A rollback plan ensures that if a change goes wrong, you can revert quickly to a known stable state.
+
+
 | Rollback Type | Description | Example |
 | --- | --- | --- | 
 | Manual Rollback | Admin restores configuration or image manually | Copy old config file back to router | 

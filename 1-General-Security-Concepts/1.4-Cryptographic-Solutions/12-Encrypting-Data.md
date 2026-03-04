@@ -155,3 +155,10 @@ Hashing = fingerprint (detects changes); Encryption = safe (protects content)
 - PKI != encryption itself - PKI manages trust and keys, encryption performs data protection
 - Diffie-Hellman = key exchange, AES = symmetric data encryption
 
+---
+
+## Related Notes
+- [[11-Public-Key-Infrastructure]]
+- [[14-Encryption-Technologies]]
+- [[73-Secure-Communication]]
+- [[75-States-Of-Data]]

@@ -103,3 +103,9 @@ They complement each other - gap analysis shows "what's missing", while risk ass
 **EXAM TIP**: CompTIA may frame it like - An organization compares it's current security controls to the requirements of a new framework to determine what additional steps are needed
 - This is a gap analysis and not a risk assessment, vulnerability scan, nor penetration test.
 
+---
+
+## Related Notes
+- [[01-Security-Controls]]
+- [[09-Change-Management]]
+- [[53-Mitigation-Techniques]]

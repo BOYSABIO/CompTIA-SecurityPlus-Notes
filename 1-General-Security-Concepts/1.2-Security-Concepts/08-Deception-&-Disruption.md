@@ -98,3 +98,10 @@ If the question is about *attracting and monitoring attackers* then `Honeypot`. 
 - **Detective Controls**: Honeypots, Honeyfiles, Sandboxing (reveal threats)
 - **Preventive / Corrective Controls**: Sinkholes, Tarpitting, Segmentation (disrupt attacks)
 - **Supports Integrity & Availability**: by keeping attackers contained and data safe
+
+---
+
+## Related Notes
+- [[01-Security-Controls]]
+- [[53-Mitigation-Techniques]]
+- [[54-Hardening-Techniques]]

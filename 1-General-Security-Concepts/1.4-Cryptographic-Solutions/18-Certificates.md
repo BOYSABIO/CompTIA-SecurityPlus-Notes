@@ -170,3 +170,9 @@ Certificates can specify how they're used via extensions:
 4. **Check name match** - domain name matches certificate
 5. **Check purpose** - key usage and extensions are correct
 
+---
+
+## Related Notes
+- [[11-Public-Key-Infrastructure]]
+- [[73-Secure-Communication]]
+- [[35-Supply-Chain-Vulnerabilities]]

@@ -94,3 +94,10 @@ Change management supports:
 - `Integrity` - ensures approved, tested changes only
 - `Accountability` - clear audit trails
 - `Non-repudiation` - proof of who authorized / implemented a change
+
+---
+
+## Related Notes
+- [[10-Technical-Change-Management]]
+- [[05-Gap-Analysis]]
+- [[36-Misconfiguration-Vulnerabilities]]

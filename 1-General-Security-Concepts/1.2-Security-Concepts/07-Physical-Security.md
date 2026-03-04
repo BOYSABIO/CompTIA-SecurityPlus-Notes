@@ -65,3 +65,10 @@ Sensors help to detect in both light areas and dark areas. Don't need lights.
 
 ### Examples
 This is very common for very large datacenters or where you need additional security so only the appropriate individuals are allowed
+
+---
+
+## Related Notes
+- [[01-Security-Controls]]
+- [[58-Infrastructure-Considerations]]
+- [[71-Port-Security]]

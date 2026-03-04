@@ -80,4 +80,12 @@ These three principles balance each other - strengthening one can weaken another
 | A hacker steals customer records | Confidentiality | 
 | A database is corrupted after a patch | Integrity | 
 | A DDoS attack takes down your website | Availability | 
-| A user modifies logs to hide activity | Integrity & Confidentiality | 
+| A user modifies logs to hide activity | Integrity & Confidentiality |
+
+---
+
+## Related Notes
+- [[01-Security-Controls]]
+- [[03-Non-repudiation]]
+- [[06-Zero-Trust]]
+- [[76-Protecting-Data]]

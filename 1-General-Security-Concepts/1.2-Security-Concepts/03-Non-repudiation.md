@@ -161,4 +161,11 @@ On the receivers side:
 4. Plain text is run through a hashing algorithm to do a match check on the hash that was sent from the sender
 5. If the hashes match, we know the info is the same and that it had to be sent from the sender.
 
-All of this happens under the hood. 
+All of this happens under the hood.
+
+---
+
+## Related Notes
+- [[16-Hashing-&-Digital-Signatures]]
+- [[11-Public-Key-Infrastructure]]
+- [[04-Authentication-Authorization-&-Accounting]]

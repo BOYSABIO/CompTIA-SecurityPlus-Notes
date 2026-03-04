@@ -94,3 +94,11 @@ Even if the long-term private key is compromised later, past session data **cann
 | RSA provides Perfect Forward Secrecy | No, only DHE / ECDHE do |
 | Key exchange uses symmetric encryption | No, key exchange uses asymmetric, but result is a symmetric key |
 | TLS only uses asymmetric encryption | It uses both (asymmetric for key exchange, symmetric for data)
+
+---
+
+## Related Notes
+- [[11-Public-Key-Infrastructure]]
+- [[12-Encrypting-Data]]
+- [[14-Encryption-Technologies]]
+- [[18-Certificates]]

@@ -119,4 +119,9 @@ Proper technical change management **minimizes risk** by enforcing:
 
 ---
 
+---
 
+## Related Notes
+- [[09-Change-Management]]
+- [[28-Malicious Updates]]
+- [[53-Mitigation-Techniques]]

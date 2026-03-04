@@ -126,3 +126,11 @@ When it comes to securing a wifi always choose **WPA3-AES (CCMP)**
 5. **HSM and TPM** - secure key storage
 6. **Perfect Forward Secrecy** - provided by ephemeral key exchange (DHE / ECDHE)
 7. **End-to-end Encryption** - Sender -> recipient, not readable by intermediaries
+
+---
+
+## Related Notes
+- [[11-Public-Key-Infrastructure]]
+- [[12-Encrypting-Data]]
+- [[73-Secure-Communication]]
+- [[74-Data-Types-&-Classifications]]

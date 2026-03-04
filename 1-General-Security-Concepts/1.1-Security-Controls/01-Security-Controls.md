@@ -65,3 +65,11 @@ You don't need to memorize all, but know why they exist - to organize and implem
 | Physical | Door Lock | Warning Signs | Motion Detectors | Fire Extinguisher | Power Generator | Sign: Authorized Personnel Only |
   
 There are many categories of control and different security controls that fit into different categories.
+
+---
+
+## Related Notes
+- [[02-The-CIA-Triad]]
+- [[04-Authentication-Authorization-&-Accounting]]
+- [[53-Mitigation-Techniques]]
+- [[54-Hardening-Techniques]]

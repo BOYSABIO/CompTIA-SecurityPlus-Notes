@@ -108,3 +108,10 @@ Essentially, `Zero Trust` is `AAA` + `Modern Verification` applied everywhere - 
 ---
 
 **Exam Tip**: CompTIA may frame it like, "An organization wants to move away from a perimeter-based model and enforce continuous authentication and verification for all users and devices." The answer would be `Zero Trust` and not **defence-in-depth** (that's layered security), and not `Least Privilege` alone (that's part of `Zero Trust`).
+
+---
+
+## Related Notes
+- [[04-Authentication-Authorization-&-Accounting]]
+- [[52-Segmentation-&-Access-Control]]
+- [[59-Secure-Infrastructure]]

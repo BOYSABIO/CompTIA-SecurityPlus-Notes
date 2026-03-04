@@ -114,3 +114,11 @@ The main advantages are that it has a strong encryption for all communication, i
 2. Concentrator has no information about usernames etc. This is stored on central server or AAA server. This server recieves a copy of the username and password and the request
 3. If the match is true, the AAA Server will send info back to the concentrator saying that they are approved or denied
 4. Concentrator allows access to the internal file server
+
+---
+
+## Related Notes
+- [[02-The-CIA-Triad]]
+- [[06-Zero-Trust]]
+- [[11-Public-Key-Infrastructure]]
+- [[52-Segmentation-&-Access-Control]]

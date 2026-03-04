@@ -111,3 +111,9 @@ When identifying or comparing threat actors, think of these attributes:
 | Insider | Access controls, logging, behavioral monitoring |
 | Competitor | Data loss prevention (DLP), legal protections, segmentation |
 
+---
+
+## Related Notes
+- [[20-Common-Threat-Vectors]]
+- [[21-Phishing]]
+- [[39-An-Overview-Of-Malware]]

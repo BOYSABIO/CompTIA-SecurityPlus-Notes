@@ -121,3 +121,9 @@ AES-encrypted data = Encryption
 
 Obfuscation supports confidentiality but is **NOT** a substitute for encryption
 
+---
+
+## Related Notes
+- [[49-Malicious-Code]]
+- [[50-Application-Attacks]]
+- [[54-Hardening-Techniques]]

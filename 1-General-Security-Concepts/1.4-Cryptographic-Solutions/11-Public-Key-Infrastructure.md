@@ -141,3 +141,11 @@ CompTIA often asks which technology relies on certificates to authenticate clien
 - Digital signature vs encryption:
     - Signature = integrity + authentication
     - Encryption = confidentiality
+
+---
+
+## Related Notes
+- [[18-Certificates]]
+- [[12-Encrypting-Data]]
+- [[16-Hashing-&-Digital-Signatures]]
+- [[73-Secure-Communication]]

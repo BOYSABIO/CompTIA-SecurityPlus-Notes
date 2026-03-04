@@ -131,3 +131,10 @@ Prove the message came from a specific sender and wasn't modified -> **Digital S
 
 HMAC-SHA256 means: hash with a secret key using SHA-256 -> verifies both sender and mesage integrity
 
+---
+
+## Related Notes
+- [[03-Non-repudiation]]
+- [[11-Public-Key-Infrastructure]]
+- [[21-Phishing]]
+- [[49-Malicious-Code]]

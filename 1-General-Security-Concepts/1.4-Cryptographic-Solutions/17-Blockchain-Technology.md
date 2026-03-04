@@ -140,3 +140,10 @@ Blockchain prioritizes `Integrity` and `Availability`, sometimes at the expense 
 | Confidentiality | Limited (public data often visible) |
 | Integrity | Very strong (hash-linked, tamper-evident) |
 | Availability | High (decentralized redundancy) |
+
+---
+
+## Related Notes
+- [[16-Hashing-&-Digital-Signatures]]
+- [[12-Encrypting-Data]]
+- [[19-Threat-Actors]]

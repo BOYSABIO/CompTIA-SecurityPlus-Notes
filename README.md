@@ -10,10 +10,10 @@ This repository is an Obsidian vault of Security+ study notes built while follow
 
 ## Vault Structure
 
-- [1-General-Security-Concepts/](https://github.com/BOYSABIO/CompTIA-SecurityPlus-Notes/tree/main/1-General-Security-Concepts)
-- `2-Threats-Vulnerabilities-Mitigations/`
-- `3-Security-Architecture/`
-- `4-Security-Operations/`
+- **[1-General-Security-Concepts/](https://github.com/BOYSABIO/CompTIA-SecurityPlus-Notes/tree/main/1-General-Security-Concepts)**
+- **[2-Threats-Vulnerabilities-Mitigations/](https://github.com/BOYSABIO/CompTIA-SecurityPlus-Notes/tree/main/2-Threats-Vulnerabilities-Mitigations)**
+- **[3-Security-Architecture/](https://github.com/BOYSABIO/CompTIA-SecurityPlus-Notes/tree/main/3-Security-Architecture)**
+- **[4-Security-Operations/](https://github.com/BOYSABIO/CompTIA-SecurityPlus-Notes/tree/main/4-Security-Operations)**
 - `5-Security-Program-Management-&-Oversight/`
 - `Introduction.md` (original exam-prep intro notes)
 

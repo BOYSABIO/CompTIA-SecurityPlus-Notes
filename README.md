@@ -10,7 +10,7 @@ This repository is an Obsidian vault of Security+ study notes built while follow
 
 ## Vault Structure
 
-- `1-General-Security-Concepts/`
+- [1-General-Security-Concepts/](https://github.com/BOYSABIO/CompTIA-SecurityPlus-Notes/tree/main/1-General-Security-Concepts)
 - `2-Threats-Vulnerabilities-Mitigations/`
 - `3-Security-Architecture/`
 - `4-Security-Operations/`

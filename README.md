@@ -42,3 +42,6 @@ Most questions are multiple choice, with performance-based questions typically a
 - Review linked notes to connect topics across domains
 
 Professor Messer content is a strong starting point; expand with additional resources and practical exercises.
+
+## Links
+[Professor Messer](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)
